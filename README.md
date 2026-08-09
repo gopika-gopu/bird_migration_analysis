@@ -1,4 +1,4 @@
-.# 🐦 Bird Migration Analysis
+# 🐦 Bird Migration Analysis
 
 ## 📌 Project Overview
 
