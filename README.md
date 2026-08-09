@@ -102,8 +102,4 @@ Most importantly, I learned that data analysis is not just about
 creating charts, but about understanding the data and using
 visualizations to communicate meaningful patterns.
 
-## 🚀 Future Learning
 
-As a next step, I would like to extend my data analysis skills by
-working with tools such as Python and SQL and explore migration data
-in greater analytical depth.
